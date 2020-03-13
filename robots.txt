@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chohsahlex.ecogames.mobi/sitemap.xml
